@@ -66,3 +66,6 @@ Local LLMs (LLaMA, Mistral, Claude via API)
 MIT License. Free to use for academic, commercial, or personal projects.
 
 🙌 Contributions Welcome!
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub Repo stars](https://img.shields.io/github/stars/Soham-Banerjee-web/Bolt-app?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/Soham-Banerjee-web/Bolt-app)
